@@ -9,6 +9,8 @@
 - Membuat class `DaftarNilai` untuk menyimpan data mahasiswa.
 - Menambahkan metode dalam class seperti `tambah()`, `tampilkan()`, `ubah()`, dan `hapus()` untuk manipulasi data mahasiswa.
 
+![Gambar](/Gambar/gambar1.png)
+
 ### 2. Membuat Class `DaftarNilai`
 - Class ini digunakan untuk menyimpan data mahasiswa dalam list.
 - Menyediakan metode untuk menambah, menampilkan, mengubah, dan menghapus data.
