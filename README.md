@@ -15,10 +15,35 @@
 - Class ini digunakan untuk menyimpan data mahasiswa dalam list.
 - Menyediakan metode untuk menambah, menampilkan, mengubah, dan menghapus data.
 
+![Gambar](/Gambar/gambar2.png)
+
 ### 3. Membuat Menu Program
 - Program menyediakan menu interaktif untuk pengguna yang dapat memilih untuk menambah, menampilkan, mengubah, atau menghapus data mahasiswa.
+
+![Gambar](/Gambar/gambar3.png)
 
 ### 4. Menambahkan Fitur untuk Mengubah dan Menghapus Data
 - Implementasi fitur untuk mengubah data mahasiswa berdasarkan nama dan menghapus data mahasiswa berdasarkan nama.
 
+![Gambar](/Gambar/gambar4.png)
+
 ### 5. Pengujian Program
+
+![Gambar](/Gambar/gambar5.png)
+
+### 6. Flowchart
+
+![Gambar](/Gambar/flowchart.png)
+
+### 7. Diagram
+
+![Gambar](/Gambar/diagram.png)
+
+Pada gambar menampilkan sebuah class dari code program daftarnilaimahasiswa, dengan adanya diagram class ini kita mampu melihat mana saja diagram class atau tipe class yang terdapat pada code program ini :
+
+init()
+tambah(nama: str, nim: int, gender: str, nilai: int)
+tampilkan()
+hapus(nama: str)
+ubah(nama: str, nim: int, gender: str, nilai: int)
+menu_interaktif()
