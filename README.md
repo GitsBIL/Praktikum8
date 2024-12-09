@@ -31,11 +31,15 @@
 
 ![Gambar](/Gambar/gambar5.png)
 
-### 6. Flowchart
+### 6. Hasil Pengujian Program
+
+![Gambar](/Gambar/gambar6.png)
+
+### 7. Flowchart
 
 ![Gambar](/Gambar/flowchart.png)
 
-### 7. Diagram
+### 8. Diagram
 
 ![Gambar](/Gambar/diagram.png)
 
